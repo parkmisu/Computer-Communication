@@ -1,5 +1,4 @@
-## Computer communication 경진대회 장려상
----
+## Computer Communication 경진대회 장려상
 
 [1] 주제 : 채팅 프로그램
 
